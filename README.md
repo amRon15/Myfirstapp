@@ -16,9 +16,10 @@ The Expense Tracking App is a mobile application built using React Native, desig
 - Expo, Snack
 
 ## Screenshot
-![IMG_2443](https://github.com/amRon15/Myfirstapp/assets/109853249/0b01ed17-15c4-41c2-8090-b589ca4a89ae)
-![IMG_2444](https://github.com/amRon15/Myfirstapp/assets/109853249/ca84f7ff-28e5-4314-bd90-e55b48a07d09)
-![IMG_2445](https://github.com/amRon15/Myfirstapp/assets/109853249/8d6f71ad-46d8-4aff-93dc-48a5723b1cd9)
+![IMG_2443](https://github.com/amRon15/Myfirstapp/assets/109853249/0f582a5d-7ceb-4876-95cd-593276c79df0)
+![IMG_2444](https://github.com/amRon15/Myfirstapp/assets/109853249/7c071e99-d4ad-49b9-9348-13df4ea1d710)
+![IMG_2445](https://github.com/amRon15/Myfirstapp/assets/109853249/740c584b-dd89-4fe7-b032-25d975bcc124)
+
 
 
 ## License
